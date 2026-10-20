@@ -1,4 +1,4 @@
-# Local Sandbox Proxy Jail 🧪🔒
+# Local Sandbox Proxy Jail 📦🔒
 
 An advanced, zero-dependency local network reverse proxy and sandbox boundary environment designed for software engineers testing third-party scripts, unstable APIs, or network scraping components.
 
